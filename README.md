@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi 👋 I'm Montaha
+
+🎓 Computer Science Student
+💻 Passionate about Software Development, AI 🌱 Currently learning: Machine Learning, Web Technologies, and System Design
+🚀 Always curious and motivated to build real-world projects
 
 <!--
 **Montaahaa/Montaahaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
