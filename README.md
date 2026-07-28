@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science Student
 - 💻 Passionate about Software Development, AI 
-- 🌱 Currently learning: Machine Learning, Web Technologies, and System Design
+- 🌱 Currently learning: Data Science, LLMs, Web Technologies, and System Design
 - 🚀 Always curious and motivated to build real-world projects
   
 
