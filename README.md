@@ -3,6 +3,7 @@
 - 🎓 Computer Science Student
 - 💻 Passionate about Software Development, AI 
 - 🌱 Currently learning: Data Science, LLMs, Web Technologies, and System Design
+- ⚡ Recently worked on developing a Jira plugin using the Atlassian Forge platform within the Atlassian ecosystem. ⚡
 - 🚀 Always curious and motivated to build real-world projects
   
 
